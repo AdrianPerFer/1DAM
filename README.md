@@ -1,1 +1,2 @@
-# 1DAM_Java
+# 1ºDAM -> Java
+Exercise with Java by Adrián Perogil Fernández
